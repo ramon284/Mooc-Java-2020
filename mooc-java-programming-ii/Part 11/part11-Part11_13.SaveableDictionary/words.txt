@@ -1,0 +1,23 @@
+apina:monkey
+alla oleva:below
+olut:beer
+computer:tietokone
+tietokone:computer
+computer:tietokone
+tietokone:computer
+computer:tietokone
+tietokone:computer
+computer:tietokone
+tietokone:computer
+computer:tietokone
+tietokone:computer
+computer:tietokone
+tietokone:computer
+computer:tietokone
+tietokone:computer
+computer:tietokone
+tietokone:computer
+computer:tietokone
+tietokone:computer
+computer:tietokone
+tietokone:computer
